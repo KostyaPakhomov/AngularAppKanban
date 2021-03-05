@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":"AAAA;EACE,yDAAyD;EACzD,wBAAwB;AAC1B;AACA;EACE,eAAe;AACjB","file":"styles.css","sourcesContent":["body {\n  background: url(\"background.jpg\") center center no-repeat;\n  background-size: inherit;\n}\nbutton:hover {\n  cursor: pointer;\n}\n"],"sourceRoot":"webpack:///"}

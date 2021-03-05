@@ -1,0 +1,10 @@
+body {
+  background: url("background.jpg") center center no-repeat;
+  background-size: inherit;
+}
+button:hover {
+  cursor: pointer;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
